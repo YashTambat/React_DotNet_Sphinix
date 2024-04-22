@@ -3061,11 +3061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET projects\\sphinixtech2Backend\\sphinixtech2Backend\\sphinixtech2Backend.csproj",
+      "projectUniqueName": "D:\\sphinix_react_dotnet github\\sphinixtech2Backend\\sphinixtech2Backend.csproj",
       "projectName": "sphinixtech2Backend",
-      "projectPath": "D:\\DOTNET projects\\sphinixtech2Backend\\sphinixtech2Backend\\sphinixtech2Backend.csproj",
+      "projectPath": "D:\\sphinix_react_dotnet github\\sphinixtech2Backend\\sphinixtech2Backend.csproj",
       "packagesPath": "C:\\Users\\yash\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET projects\\sphinixtech2Backend\\sphinixtech2Backend\\obj\\",
+      "outputPath": "D:\\sphinix_react_dotnet github\\sphinixtech2Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
